@@ -1,6 +1,5 @@
 [![](https://jitci.com/gh/R-Gld/sleeptimer/svg)](https://jitci.com/gh/R-Gld/sleeptimer)
 # SleepTimer
-
 ## Installation
 
 - `pip install -r requirements.txt` to install pynput
