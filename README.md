@@ -1,3 +1,4 @@
+[![](https://jitci.com/gh/R-Gld/sleeptimer/svg)](https://jitci.com/gh/R-Gld/sleeptimer)
 # SleepTimer
 
 ## Installation
